@@ -97,17 +97,6 @@ Competitive technical quiz covering Python and HTML at Lovely Professional Unive
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Mohit-Bhardwaj&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Dev's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mohit-Bhardwaj&layout=compact&hide_border=true" height="165" alt="Dev's Top Languages" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning
